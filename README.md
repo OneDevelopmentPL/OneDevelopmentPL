@@ -1,34 +1,100 @@
-# OneDevelopment
-## About us: (pozdrawiam pana Wiktora)
-### Team of 2 devs:
-#### Iwo W. (Polish, English B2) also owner of OneDevelopment
-1. C++ on a basic level (main)
-2. Arduino IDE - basics
-3. HTML and CSS - basics too xd
-4. Python, only sometimes code in it.
+# 🚀 OneDevelopment
 
-Biggest projects made by me: 
-1. OneOS - Whole operating system with basic command line, GUI which has Start Menu, FPS Counter, Taskbar with time, 2 Apps (About OneOS, Terminal) and other cool stuff...kernel is based on Cosmos
-2. OneAI (Whole LLM, based on Qwen 0.5B. It took me week to finish, first it was called CerebraAI, them Syntra and now it's called OneAI)
-My favourite projects:
-1. OneTV,
-2. OneAssist (can control your chromecast tv)
-3. OneAI
-4. OneOS
+> Mały zespół. Duże pomysły. Prawdziwe projekty.
 
-#### Filip L. (Polish, English A1) and friend 
-1. Java - basic level
-2. Python, basic too
-3. Arduino IDE - basiccc too :)
-4. idk other languages he know, but he is supporting me and team
+---
 
-Biggest projects made by him:
-1. He supported me in OneTV and he gives me tons of ideas
-His favourite project:
-1. OneTV
-2. OneAssist
-3. OneOS
+## 👥 O nas
 
-If you want to help us, contact me! Make an issue here and i will give you an answer!
+Jesteśmy 2-osobowym zespołem developerskim, który tworzy ambitne projekty – od własnego systemu operacyjnego po sztuczną inteligencję i narzędzia smart.
 
+Uczymy się poprzez tworzenie realnych rzeczy 💪
 
+---
+
+# 👑 Iwo W.
+**Założyciel i właściciel OneDevelopment**  
+🇵🇱 Polski | 🇬🇧 Angielski (B2)
+
+## 🛠 Umiejętności
+- C++ (główny język, poziom podstawowy/średni)
+- Arduino IDE (podstawy)
+- HTML i CSS (podstawy)
+- Python (okazjonalnie)
+
+## 🏆 Największe projekty
+
+### 🖥 OneOS  
+Własny system operacyjny oparty na kernelu **Cosmos**.
+
+Funkcje:
+- Linia komend
+- GUI z Menu Start
+- Pasek zadań z zegarem
+- Licznik FPS
+- Wbudowane aplikacje (Informacje o systemie, Terminal)
+- I wiele innych funkcji
+
+---
+
+### 🤖 OneAI  
+Własny model LLM oparty na **Qwen 0.5B**.
+
+Poprzednie nazwy:
+- CerebraAI  
+- Syntra  
+- Obecnie: **OneAI**
+
+Cały projekt powstał w około tydzień 🚀
+
+---
+
+## ❤️ Ulubione projekty
+- 📺 OneTV  
+- 🎮 OneAssist (sterowanie Chromecast TV)  
+- 🤖 OneAI  
+- 🖥 OneOS  
+
+---
+
+# 🤝 Filip L.
+Członek zespołu i wsparcie projektu  
+🇵🇱 Polski | 🇬🇧 Angielski (A1)
+
+## 🛠 Umiejętności
+- Java (podstawy)
+- Python (podstawy)
+- Arduino IDE (podstawy)
+- Generator pomysłów 🧠✨
+
+## 🏆 Wkład w projekty
+- Wsparcie przy tworzeniu **OneTV**
+- Dużo pomysłów i sugestii ulepszeń
+
+## ❤️ Ulubione projekty
+- 📺 OneTV  
+- 🎮 OneAssist  
+- 🖥 OneOS  
+
+---
+
+## 🌟 Nasza wizja
+
+Tworzymy:
+- Systemy operacyjne
+- Projekty AI
+- Narzędzia użytkowe
+- Eksperymentalne oprogramowanie
+
+Budujemy, testujemy, rozwijamy się.
+
+---
+
+## 💬 Chcesz pomóc?
+
+Masz pomysł?  
+Chcesz współtworzyć projekt?
+
+➡️ Utwórz **Issue**, a odpowiemy!
+
+Razem możemy zrobić coś naprawdę dużego 🚀
