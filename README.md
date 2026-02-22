@@ -2,6 +2,8 @@
 
 ---
 I like experimenting with AI (LLama, Mistral, z-image-turbo) and programming with ![C++](https://img.shields.io/badge/C%2B%2B-22-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) and ![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Student at RoboCode
 ---
 
 ## 👨‍💻 I code with/in:
@@ -17,7 +19,8 @@ IDEs: ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-0078d7?style=for-the
 mp3tobuzzer - converts a mp3 file to Arduino code so buzzer can play it <br>
 UltraSense - lightweight and easy to use ultrasonic sensor library with filtering support <br>
 openbrowsing - very private browser, that cares about your privacy <br>
-xfux - Linux desktop enviroment
+xfux - Linux desktop enviroment, based on XFCE4, but... with animations and rounded windows! Still runs lightweight at all! <br>
+other... [All repos](https://github.com/OneDevelopmentPL?tab=repositories)
 
 
 ## ⚙️ Workstation: <br>
