@@ -17,8 +17,10 @@ Programming in: ![C++](https://img.shields.io/badge/C%2B%2B-22-00599C?style=for-
 IDEs: ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-0078d7?style=for-the-badge&logo=code&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) <br>
 
 ## 🛠️ Solutions:
+UltraSense - lightweight and easy to use Arduino ultrasonic sensor library with filtering support <br>
+shareme - easily share code or text with multiplayer support <br>
+CompVision-Light - lightweight computer vision made for 2024/5 low-end computers <br>
 mp3tobuzzer - converts a mp3 file to Arduino code so buzzer can play it <br>
-UltraSense - lightweight and easy to use ultrasonic sensor library with filtering support <br>
 openbrowsing - very private browser, that cares about your privacy <br>
 xfux - Linux desktop enviroment, based on XFCE4, but... with animations and rounded windows! Still runs lightweight at all! <br>
 other... [All repos](https://github.com/OneDevelopmentPL?tab=repositories)
